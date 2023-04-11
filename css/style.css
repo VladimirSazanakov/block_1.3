@@ -146,6 +146,7 @@ body {
     justify-content: space-between;
     flex-wrap: nowrap;
     overflow-x: scroll;
+    overflow-y: hidden;
 }
 
 .slider__item {
@@ -283,6 +284,7 @@ body {
     .slider {
         margin: 0;
         margin-bottom: 32px;
+        overflow-y: hidden;
     }
 
     .main__content-layout {
