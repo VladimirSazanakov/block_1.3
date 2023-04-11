@@ -328,9 +328,16 @@ body {
     .main__title-layout::before {
         left: -32px;
     }
+    .slider {
+        overflow: hidden;
+    }
 
     .slider__items {
         flex-wrap: wrap;
+        overflow: hidden;
+    }
+    .slider__fade {
+        display: none;
     }
 
     .main__text-box {
