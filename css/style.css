@@ -98,11 +98,6 @@ body {
     margin-left: 16px;
 }
 
-.main__title {
-    /*position: relative;*/
-
-}
-
 .main__title-layout::before {
     position: absolute;
     left: -16px;
